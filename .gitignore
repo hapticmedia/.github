@@ -1,0 +1,27 @@
+# git - mergetool
+*.orig
+
+# OS - OSX
+.DS_Store
+
+# OS - Windows
+Thumbs.db
+ehthumbs.db
+
+# OS - Linux (KDE directory preferences)
+.directory
+
+# Editor - VIM
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*~
+
+# Editor - JetBrains
+.idea/
+
+# Editor - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
